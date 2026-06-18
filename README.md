@@ -112,16 +112,16 @@ The idea was inspired by automotive recommendation concepts I explored online, a
 ## 📸 Sample Output
 
 ### Welcome Screen
-![Welcome Screen](images/welcome.png)
+![Welcome Screen](images/welcome)
 
 ### Filtering Cars
-![Filtering Cars](images/filters.png)
+![Filtering Cars](images/filters)
 
 ### Top Rated Cars
-![Top Rated Cars](images/top-rated.png)
+![Top Rated Cars](images/top-rated)
 
 ### Cars Sorted by Price (BST)
-![BST Sorting](images/bst-sorting.png)
+![BST Sorting](images/bst-sorting)
 
 ## 🚀 Future Improvements
 - AVL Tree implementation for balanced price indexing
