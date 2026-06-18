@@ -109,6 +109,20 @@ As someone passionate about cars and technology, I wanted to build a project tha
 
 The idea was inspired by automotive recommendation concepts I explored online, and I used it as an opportunity to apply DSA concepts to a practical use case rather than implementing algorithms in isolation.
 
+## 📸 Sample Output
+
+### Welcome Screen
+![Welcome Screen](images/welcome.png)
+
+### Filtering Cars
+![Filtering Cars](images/filters.png)
+
+### Top Rated Cars
+![Top Rated Cars](images/top-rated.png)
+
+### Cars Sorted by Price (BST)
+![BST Sorting](images/bst-sorting.png)
+
 ## 🚀 Future Improvements
 - AVL Tree implementation for balanced price indexing
 - Trie-based model search and autocomplete
